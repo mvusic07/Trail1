@@ -304,7 +304,7 @@ class Puddle {
 	this.useRandomRippleStrength = true;
 	this.isRandomRippleCreated = true;
 	this.nodeStyle = NodeBase;
-	this.nodeSize = 14;
+	this.nodeSize = 10;
 	this.mathMode = "anair";
 	this.updateLoop = undefined;
 	this.setupDefaultOptions();
